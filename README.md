@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Golden Fork – "Hungry? Scan here" Laravel website (Red & Yellow)
 
 Built for QR stickers placed near the restaurant: a visitor scans, lands on the
@@ -51,3 +52,6 @@ Re-run the export and re-upload whenever you change `config/restaurant.php`.
     resources/views/partials/dish-card.blade.php  dish card
     public/css/style.css, public/js/app.js        styling + menu interactions
     public/js/map.js                              map, route, open/closed badge
+=======
+# restaurant-qr
+>>>>>>> 0c50d40c35131e88c2e7020c4e2a80536009f985
